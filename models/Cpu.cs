@@ -7,15 +7,15 @@ namespace RPSLS.Models
       // public Cpu(String difficulty, String mode)
       // {
       //    Difficulty = difficulty;
-      //    Mode = mode;
       // }
 
       public String Difficulty { get; set; }
-      public String Mode { get; set; }
 
-      public String move()
+      public int move()
       {
-         return "Paper";
+         Random r = new Random();
+         int choice = r.Next(0, 3);
+         return choice;
       }
    }
 }

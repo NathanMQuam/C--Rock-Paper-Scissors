@@ -36,11 +36,11 @@ namespace RPSLS
             System.Console.WriteLine();
 
             // Determine the AI's input
-
+            int cpuMove = cpu.move();
 
             // Compare the results
             Comparator comparator = new Comparator();
-            String result = comparator.Compare(userInput.Key);
+            String result = comparator.Compare(userInput.Key, cpuMove);
             if (result != "Quit")
             {
                System.Console.WriteLine(result);
