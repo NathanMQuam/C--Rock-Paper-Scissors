@@ -1,0 +1,16 @@
+C:\source\codeworks\week-10 - C#\RPSLS\bin\Debug\net5.0\RPSLS.exe
+C:\source\codeworks\week-10 - C#\RPSLS\bin\Debug\net5.0\RPSLS.deps.json
+C:\source\codeworks\week-10 - C#\RPSLS\bin\Debug\net5.0\RPSLS.runtimeconfig.json
+C:\source\codeworks\week-10 - C#\RPSLS\bin\Debug\net5.0\RPSLS.runtimeconfig.dev.json
+C:\source\codeworks\week-10 - C#\RPSLS\bin\Debug\net5.0\RPSLS.dll
+C:\source\codeworks\week-10 - C#\RPSLS\bin\Debug\net5.0\ref\RPSLS.dll
+C:\source\codeworks\week-10 - C#\RPSLS\bin\Debug\net5.0\RPSLS.pdb
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\RPSLS.csprojAssemblyReference.cache
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\RPSLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\RPSLS.AssemblyInfoInputs.cache
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\RPSLS.AssemblyInfo.cs
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\RPSLS.csproj.CoreCompileInputs.cache
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\RPSLS.dll
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\ref\RPSLS.dll
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\RPSLS.pdb
+C:\source\codeworks\week-10 - C#\RPSLS\obj\Debug\net5.0\RPSLS.genruntimeconfig.cache
